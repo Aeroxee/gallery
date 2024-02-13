@@ -17,3 +17,9 @@ go build -o galleryapi cmd/server/main.go
 - In folder project next.js run `npm run build` and `npm run start`. Server Next.js running on port 3000.
 - Open your browser and type `http://localhost:3000`
 - Enjoy
+
+---
+
+### Required
+
+[https://github.com/Aeroxee/gallery-api](https://github.com/Aeroxee/gallery)
